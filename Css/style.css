@@ -5,9 +5,9 @@ body{
 header{
     width: auto;
     height: auto;
-    background-color: cadetblue;
-    color: aqua;
     text-align: center;
+    color:yellowgreen;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .principal
 {
@@ -17,9 +17,6 @@ header{
     text-decoration: none;
 }
 
-h1{
-    color: black;
-}
 
 
 ol{
