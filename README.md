@@ -4,3 +4,5 @@ If you don´t know what is Git and GitHub, you must watch the professional cours
 [clic here](http://https://platzi.com/cursos/git-github/ "clic here")
 
 See you there!
+
+Never stop learning :fa-youtube-play: 
